@@ -7,3 +7,5 @@ Major : Computer Science KKI
 
 This is just a test
 test
+
+Test for clone
